@@ -1,2 +1,4 @@
 # odin-recipes
-Recipessfsafs
+Recipes
+
+Csinálunk fincsi recepteket az odinnal!
